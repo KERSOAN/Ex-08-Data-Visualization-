@@ -19,8 +19,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ```
-Developed by : VISHAL GOWTHAMAN K R
-Registration Number : 212221230123
+Developed by : KERSOAN P
+Registration Number : 212221230050
 ```
 ```
 import pandas as pd
